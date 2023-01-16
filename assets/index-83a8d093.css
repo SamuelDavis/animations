@@ -1,0 +1,1 @@
+:root{--frames:0;--width:0;--height:0;--src:"";--speed:0s}div.svelte-y3uq4o{width:var(--width);height:var(--height);background-image:var(--src);animation:svelte-y3uq4o-animateSprite var(--speed) steps(var(--frames),end) infinite}@keyframes svelte-y3uq4o-animateSprite{0%{background-position:0 0}to{background-position:calc(-1 * var(--width) * var(--frames)) 0}}
